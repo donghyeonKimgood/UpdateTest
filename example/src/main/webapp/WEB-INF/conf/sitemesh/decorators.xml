@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir="/WEB-INF/views/decorators">
+	<excludes>		
+	</excludes>
+
+	<!-- <decorator name="layout" page="layout.jsp">
+		<pattern>/*</pattern>
+		<pattern>/program/introduct.do</pattern>
+		<pattern>/program/business.do</pattern>
+	</decorator>
+	<decorator name="pconlylayout" page="pconlylayout.jsp">
+		<pattern>/apply/*</pattern> 
+		<pattern>/rna/*</pattern>
+	</decorator> -->	
+</decorators>

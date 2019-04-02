@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.8.0_201-1-ojdkbuild
+Built-By: mnlsolution.com
+Created-By: Maven Integration for Eclipse
+version: 1.0.0
+
